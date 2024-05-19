@@ -1,0 +1,19 @@
+/* src/components/Introduction.css */
+.intro-section {
+  padding: 60px 0;
+}
+
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.intro-section h1 {
+  margin-bottom: 10px;
+}
+
+.intro-section .lead {
+  font-size: 1.25rem;
+  color: #666;
+}

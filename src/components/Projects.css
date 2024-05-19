@@ -1,0 +1,19 @@
+/* src/components/Projects.css */
+.projects-section {
+  padding: 60px 0;
+}
+
+.projects-section h2 {
+  margin-bottom: 40px;
+}
+
+.projects-section .card {
+  margin-bottom: 20px;
+}
+
+
+.card-img-top {
+  width: 100%;
+  height: 200px; /* or any height you prefer */
+  object-fit: cover;
+}

@@ -1,0 +1,26 @@
+/* src/components/Contact.css */
+.contact-section {
+  padding: 60px 0;
+}
+
+.contact-section h2 {
+  margin-bottom: 40px;
+}
+
+.social-links {
+  margin-top: 20px;
+}
+
+.social-links .social-icon {
+  margin: 0 10px;
+  color: #007bff;
+  transition: color 0.3s ease;
+}
+
+.social-links .social-icon:hover {
+  color: #0056b3;
+}
+
+.social-links .social-icon svg {
+  vertical-align: middle;
+}

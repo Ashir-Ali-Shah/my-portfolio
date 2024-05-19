@@ -1,0 +1,13 @@
+/* src/components/Skills.css */
+.skills-section {
+  padding: 60px 0;
+}
+
+.skills-section h2 {
+  margin-bottom: 40px;
+}
+
+.skills-section .progress {
+  height: 25px;
+  margin-bottom: 20px;
+}
